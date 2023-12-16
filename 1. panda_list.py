@@ -5,7 +5,7 @@ import pandas as pd
 
 # PANDAS SERIES WITH PYTHON LISTS
 
-lst = [1,2,3,4,5]
+lst = [1,2,3,4,5]      # list
 print(lst)
 print("\n")
 
