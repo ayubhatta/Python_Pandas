@@ -2,7 +2,7 @@ import pandas as pd
 
 # PANDAS SERIES WITH PYTHON DICTIONARIES
 
-dict_series = pd.Series({'p':1, 'q':2, 'r':3, 's':4, 't':5})
+dict_series = pd.Series({'p':1, 'q':2, 'r':3, 's':4, 't':5})    # dictionary type
 print(dict_series)
 print("\n")
 
